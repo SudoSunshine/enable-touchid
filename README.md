@@ -1,6 +1,6 @@
 # Enable Touch ID for macOS Terminal
 
-![Shell](https://img.shields.io/badge/shell-bash-yellow.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0-green.svg) ![macOS](https://img.shields.io/badge/macOS-10.15+-purple.svg) ![Jamf Pro](https://img.shields.io/badge/Jamf%20Pro-compatible-orange.svg)
+![Shell](https://img.shields.io/badge/shell-bash-yellow.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Jamf Pro](https://img.shields.io/badge/Jamf%20Pro-compatible-orange.svg)
 
 Enables Touch ID authentication for `sudo` commands in Terminal by configuring `/etc/pam.d/sudo_local`. Configuration survives macOS updates.
 
